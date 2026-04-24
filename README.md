@@ -102,8 +102,3 @@ zero-study-app/
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-## Contact
-
-- Project Link: [https://github.com/yourusername/zero-study-app](https://github.com/yourusername/zero-study-app)
-- Email: your.email@example.com
